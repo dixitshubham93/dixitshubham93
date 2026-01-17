@@ -57,14 +57,14 @@ I'm a B.Tech CSE student at IIIT Bhopal with a passion for building scalable web
 
 ## 💼 Featured Projects
 
-### 🔄 [DB Migrator](https://github.com/yourusername/db-migrator)
+### 🔄 [DB Migrator](https://github.com/dixitshubham93/db-migrator)
 A powerful migration platform that converts MongoDB documents into normalized SQL tables with automated schema generation.
 - Built with **React, Node.js, MongoDB, MySQL**
 - Reduced manual migration effort by **35%**
 - Improved query performance by **40%** through relational mapping
 - Intuitive UX workflow: schema preview → validation → execution → summary
 
-### 🌌 [ComVerse](https://github.com/yourusername/comverse)
+### 🌌 [ComVerse](https://github.com/dixitshubham93/comverse)
 A 3D community platform reimagining Discord-like features with spatial UI and planetary navigation.
 - Built with **React, Node.js, WebRTC, Socket.IO, PostgreSQL**
 - Real-time P2P voice rooms with **100ms latency**
@@ -76,30 +76,30 @@ Internal workflow solution that improved team efficiency and satisfaction.
 - Reduced task completion time by **20%**
 - Improved user satisfaction scores by **10%**
 - Delivered features on schedule using **Agile & CI/CD**
-
-## 📊 GitHub Stats
-
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
+- 
 ## 🏅 Competitive Programming
 
 - 🌟 **3-star on CodeChef**
 - 💡 **500+ problems** solved across CodeChef, LeetCode, and Codeforces
 - 🎯 Active problem solver with a focus on Data Structures & Algorithms
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-3⭐-brown?style=flat&logo=codechef)](https://www.codechef.com/users/yourusername)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500+-orange?style=flat&logo=leetcode)](https://leetcode.com/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3⭐-brown?style=flat&logo=codechef)](https://www.codechef.com/users/dixitshubham93)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500+-orange?style=flat&logo=leetcode)](https://leetcode.com/dixitshubham93)
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dixitshubham8873@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:dixitshubham8873@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/dixitshubham93"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
-💡 *"Building innovative solutions one commit at a time"*
+<p align="center">
+  <i>💡 "Building innovative solutions one commit at a time"</i>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dixitshubham93&color=blue&style=flat" alt="Profile Views"/>
+</p>
