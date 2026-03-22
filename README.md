@@ -103,3 +103,5 @@ Internal workflow solution that improved team efficiency and satisfaction.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dixitshubham93&color=blue&style=flat" alt="Profile Views"/>
 </p>
+
+![snake gif](https://github.com/dixitshubham93/dixitshubham93/blob/output/github-snake-dark.svg)
