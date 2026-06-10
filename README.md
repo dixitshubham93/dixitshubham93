@@ -9,8 +9,7 @@ I'm a B.Tech CSE student at IIIT Bhopal with a passion for building scalable web
 - 🎓 Studying Computer Science at **Indian Institute of Information Technology, Bhopal** (CGPA: 8.55)
 - 💻 Experienced in full-stack development with **React, Node.js, and modern web technologies**
 - 🏆 Ranked in **top 45 teams** at Hack-O-Sprint (IIIT Bhopal Internal Hackathon)
-- ⭐ **3-star on CodeChef** with 500+ problems solved across competitive programming platforms
-- 🎯 **97.34 percentile** in JEE Mains 2023
+- ⭐ **Specialist on Codeforces**,**Knight at Leetcode with 1940 rating**,**3-star on CodeChef** with 900+ problems solved across competitive programming platforms
 - 📜 **Oracle Certified** in AI Foundations (OCI 2025)
 
 ## 🛠️ Tech Stack
@@ -79,8 +78,10 @@ Internal workflow solution that improved team efficiency and satisfaction.
 - 
 ## 🏅 Competitive Programming
 
+- 🌟**Knight at Leetcode with 1940 rating**
+- 🌟**Specialist on Codeforces**
 - 🌟 **3-star on CodeChef**
-- 💡 **500+ problems** solved across CodeChef, LeetCode, and Codeforces
+- 💡 **900+ problems** solved across CodeChef, LeetCode, and Codeforces
 - 🎯 Active problem solver with a focus on Data Structures & Algorithms
 
 [![CodeChef](https://img.shields.io/badge/CodeChef-3⭐-brown?style=flat&logo=codechef)](https://www.codechef.com/users/dixitshubham93)
