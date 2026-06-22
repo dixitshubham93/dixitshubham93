@@ -6,7 +6,7 @@ I'm a B.Tech CSE student at IIIT Bhopal with a passion for building scalable web
 
 ## 🚀 About Me
 
-- 🎓 Studying Computer Science at **Indian Institute of Information Technology, Bhopal** (CGPA: 8.55)
+- 🎓 Studying Computer Science at **Indian Institute of Information Technology, Bhopal** (CGPA: 8.65)
 - 💻 Experienced in full-stack development with **React, Node.js, and modern web technologies**
 - 🏆 Ranked in **top 45 teams** at Hack-O-Sprint (IIIT Bhopal Internal Hackathon)
 - ⭐ **Specialist on Codeforces**,**Knight at Leetcode with 1940 rating**,**3-star on CodeChef** with 900+ problems solved across competitive programming platforms
